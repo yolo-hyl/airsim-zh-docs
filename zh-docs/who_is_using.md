@@ -1,0 +1,31 @@
+# 谁在使用 AirSim？
+
+#### 想要将自己的团队或项目添加到这里吗？
+只需添加一个 [GitHub issue](https://github.com/microsoft/airsim/issues)，提供一些简单的细节和网站链接即可。
+
+* [NASA 艾姆斯研究中心 – 系统分析办公室](https://www.nasa.gov/ames)
+* [Astrobotic](https://www.astrobotic.com/technology)
+* [宾夕法尼亚大学 GRASP 实验室](https://www.grasp.upenn.edu/)
+* [斯坦福大学航空航天系](https://aa.stanford.edu/)
+* [Technion Formula](https://formula-technion.weebly.com/)
+* [根特大学](https://www.ugent.be)
+* [ICARUS](http://icarus.upc.edu)
+* [加州大学圣巴巴拉分校](https://www.ucsb.edu/)
+* [滑铁卢大学 WISE 实验室](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/)
+* [微软研究院印度 HAMS 项目](https://www.microsoft.com/en-us/research/project/hams/)
+* [华盛顿与李大学](https://www.wlu.edu/)
+* [奥克拉荷马大学](https://www.ou.edu/)
+* [卡内基梅隆大学机器人研究所](https://www.ri.cmu.edu/)
+* [德克萨斯农工大学](https://www.tamu.edu/)
+* [苏黎世大学机器人与视觉感知组](http://rpg.ifi.uzh.ch/)
+* [爱尔兰国立大学戈尔威分校（NUIG）](http://www.nuigalway.ie/)
+* [Soda 移动技术](http://sodacar.com)
+* [剑桥大学](https://github.com/proroklab/private_flocking)
+* [Skoods - 人工智能自动驾驶汽车竞赛](https://www.skoods.org/)
+* [Teledyne Scientific](https://arxiv.org/abs/2001.09822)
+* [BladeStack Systems](https://www.bladestack.nl)
+* [萨拉戈萨大学 (Unizar)](https://sites.google.com/unizar.es/poc-team/home)
+* [ClearSky LLC](https://deltacnc.ru/)
+* [Myned AI](https://www.myned.ai/)
+* [STPLS3D - 南加州大学创意技术研究所](http://www.stpls3d.com/)
+* [中密歇根大学](http://www.waynenterprises.com/research)
