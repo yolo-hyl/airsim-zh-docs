@@ -3,7 +3,8 @@
 
 由于译者水平和时间有限，文档中难免会有遗漏，如果文档有任何遗漏或者有翻译不对的地方，欢迎随时提PR。
 
-如果你有无人机仿真相关的文档翻译需求，也环境到项目主页提Issue。
+如果你有无人机仿真相关的文档翻译需求，也欢迎到项目主页提Issue。
 
-项目主页：
+git项目主页：
+[https://github.com/yolo-hyl/airsim-zh-docs](https://github.com/yolo-hyl/airsim-zh-docs)
 
