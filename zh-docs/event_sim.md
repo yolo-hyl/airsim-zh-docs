@@ -1,4 +1,3 @@
-```markdown
 AirSim 提供了一个基于 Python 的事件相机模拟器，旨在实现高性能并能够与模拟环境实时运行。
 
 #### 事件相机
@@ -53,4 +52,3 @@ event_img, events = ev_sim.image_callback(img, ts_delta)
 4. 通过插值计算每个事件的时间戳，以便在前后的图像捕获之间的经过时间插值。  
 $t = t_{prev} + \frac{\Delta T}{N_e(u)}$  
 5. 通过在每个像素上模拟事件并按时间戳排序来生成输出字节流。
-```
